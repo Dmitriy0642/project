@@ -282,7 +282,33 @@ color: #A36B00;
 width: 213px;
 height: 246px;
 margin: 16px 58px 0 21px;
+}
+
+
+.footer{
+background: #181818;
+margin: 201px 0 0 0;
 
 }
 
-    
+.footer_text{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.sity_text{
+font-weight: 900;
+font-size: 20px;
+line-height: 24px;
+color: #FFFFFF;
+margin: 0 700px 0 0;
+}
+
+.mail_text{
+font-weight: 900;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.07em;
+color: #FFFFFF;
+}
