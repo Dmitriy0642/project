@@ -231,3 +231,58 @@ margin: 67px 19px 23px 20px;
     text-align: center;
     margin: 40px;
 }
+
+.title_section3{
+font-weight: 900;
+font-size: 32px;
+line-height: 39px;
+color: #424242;
+text-align: center;
+margin: 52px 0 78px 0;
+}
+
+.columns_flex_box2{
+    display: flex;
+    flex-wrap: wrap;
+    background: #343434;
+    border-radius: 18px;
+}
+
+
+.columns_body_box{
+display: flex;
+}
+
+.img_body_boxer{
+background: #1D1D1D;
+border-radius: 18px;
+width: 258px;
+height: 320px;
+margin: 25px 0 0 33px;
+}
+
+.img_body_boxer img{
+    margin: 11.5px 13px 21px 15px;
+    
+}
+
+.boxer_name{
+font-weight: 900;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF;
+margin: 25px 0 0 21px;
+}
+
+.boxer_title{
+font-weight: 900;
+font-size: 14px;
+line-height: 45px;
+color: #A36B00;
+width: 213px;
+height: 246px;
+margin: 16px 58px 0 21px;
+
+}
+
+    
