@@ -33,3 +33,65 @@
   h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
   /*--------------------*/
   
+
+
+  .wrapper{
+    min-height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(286.55deg, #000000 -4.87%, #E47005 99.53%);
+  }
+
+  .container{
+    width: 1170px;
+    margin: 0 auto;
+    border: 1px solid silver;
+  }
+
+.header_flex_container{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    
+  }
+
+  .title_h1{
+      border: 1px solid silver;
+      margin: 0 0 0 15px;
+      font-weight: 900;
+      font-size: 28px;
+      line-height: 34px;
+      color: #432000;
+  }
+
+  .menu_list{
+      display: flex;
+      border: 1px solid silver;
+      margin: 0 0 0 80px;
+  }
+
+  .menu_list li{
+    padding: 0 48px;
+  }
+
+  .info_phone{
+      display: flex;
+      margin: 0 0 0 63px;
+      border: 1px solid silver;
+  }
+
+  .info_phone img{
+    width: 23.25px;
+    height: 23.28px;
+  }
+    
+
+  .phone{
+    margin: 20px 0 0 19px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+  }
+  
